@@ -1,0 +1,1 @@
+cmd_/home/mahesh/assignments/2/process_list.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/mahesh/assignments/2/process_list.ko /home/mahesh/assignments/2/process_list.o /home/mahesh/assignments/2/process_list.mod.o
