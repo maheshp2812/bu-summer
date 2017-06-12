@@ -1,0 +1,1 @@
+cmd_/home/mahesh/assignments/3/c/linepipe.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/mahesh/assignments/3/c/linepipe.ko /home/mahesh/assignments/3/c/linepipe.o /home/mahesh/assignments/3/c/linepipe.mod.o
