@@ -1,0 +1,1 @@
+cmd_/home/mahesh/assignments/4/kretprobe_example.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/mahesh/assignments/4/kretprobe_example.ko /home/mahesh/assignments/4/kretprobe_example.o /home/mahesh/assignments/4/kretprobe_example.mod.o

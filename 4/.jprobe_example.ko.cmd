@@ -1,0 +1,1 @@
+cmd_/home/mahesh/assignments/4/jprobe_example.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/mahesh/assignments/4/jprobe_example.ko /home/mahesh/assignments/4/jprobe_example.o /home/mahesh/assignments/4/jprobe_example.mod.o
